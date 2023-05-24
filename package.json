@@ -1,24 +1,16 @@
 {
-  "name": "social-network",
+  "name": "zachs-social-network",
   "version": "1.0.0",
-  "description": "connect with friends, react to thoughts, create friends list",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/siennameow/social-network-API/blob/main/LICENSE)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ZachITP/Zachs-Social-Network.git"
-  },
   "author": "Zach Hanson",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ZachITP/Zachs-Social-Network/issues"
-  },
-  "homepage": "https://github.com/ZachITP/Zachs-Social-Network#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^7.2.0"
+    "mongoose": "^6.0.13"
   }
 }
