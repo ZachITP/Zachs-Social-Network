@@ -10,9 +10,11 @@ Stay on top of everything that matters most by connecting with friends, reacting
 
 ## User Story
 
+```md
 AS A social media startup
 I WANT an API for my social network that uses a NoSQL database
 SO THAT my website can handle large amounts of unstructured data
+```
 
 ## Acceptance Criteria
 
@@ -32,9 +34,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 This application makes it easy communicate with friends, create a friends list, and share your thoughts.
 
-<img src="./public/assets/" alt="" title="">
-<img src="./public/assets/" alt="" title="">
-<img src="./public/assets/" alt="" title="">
+<img src="./public/assets/Code.png" alt="code" title="code">
+<img src="./public/assets/routes.png" alt="routes" title="routes">
+<img src="./public/assets/Mongo.png" alt="MongoDB" title="MongoDB">
 
 ## Technologies Used
 
@@ -52,6 +54,3 @@ Deployed Site: https://zachitp.github.io/Zachs-Social-Network/
 
 Check out more of my work at https://github.com/ZachITP
 
-```
-
-```
