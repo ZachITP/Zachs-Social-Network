@@ -34,9 +34,9 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 This application makes it easy communicate with friends, create a friends list, and share your thoughts.
 
-<img src="./public/assets/Code.png" alt="code" title="code">
-<img src="./public/assets/routes.png" alt="routes" title="routes">
-<img src="./public/assets/Mongo.png" alt="MongoDB" title="MongoDB">
+<img src="./Assets/Code.png" alt="code" title="code">
+<img src="./Assets/routes.png" alt="routes" title="routes">
+<img src="./Assets/Mongo.png" alt="MongoDB" title="MongoDB">
 
 ## Technologies Used
 
