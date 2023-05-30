@@ -34,6 +34,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 This application makes it easy communicate with friends, create a friends list, and share your thoughts.
 
+## Screenshots
+
 <img src="./Assets/Code.png" alt="code" title="code">
 <img src="./Assets/routes.png" alt="routes" title="routes">
 <img src="./Assets/Mongo.png" alt="MongoDB" title="MongoDB">
@@ -48,9 +50,7 @@ This application makes it easy communicate with friends, create a friends list, 
 - Insomnia
 - Moment.js
 
-## Website
-
-Deployed Site: https://zachitp.github.io/Zachs-Social-Network/
+## Contact Me
 
 Check out more of my work at https://github.com/ZachITP
 
